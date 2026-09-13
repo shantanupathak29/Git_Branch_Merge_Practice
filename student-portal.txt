@@ -5,3 +5,8 @@ Students can log in using their university credentials.
 
 Profile Feature
 Students can view their profile.
+
+Contact Feature
+Students can contact the administration.
+
+git push -u origin feature-contact
